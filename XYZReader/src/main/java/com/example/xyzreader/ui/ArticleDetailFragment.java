@@ -11,6 +11,7 @@ import android.graphics.Rect;
 import android.graphics.Typeface;
 import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
+import android.support.v4.app.NavUtils;
 import android.support.v4.app.ShareCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.graphics.Palette;
@@ -20,10 +21,12 @@ import android.text.format.DateUtils;
 import android.text.method.LinkMovementMethod;
 import android.util.Log;
 import android.view.LayoutInflater;
+import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.android.volley.VolleyError;
 import com.android.volley.toolbox.ImageLoader;
@@ -87,6 +90,21 @@ public class ArticleDetailFragment extends Fragment implements
 
     }
 
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        switch (item.getItemId()) {
+            case android.R.id.home:
+                Intent intent = NavUtils.getParentActivityIntent(getActivity());
+                intent.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP | Intent.FLAG_ACTIVITY_SINGLE_TOP);
+                NavUtils.navigateUpTo(getActivity(), intent);
+                // ProjectsActivity is my 'home' activity
+               // startActivityAfterCleanup(ProjectsActivity.class);
+             //   getActivity().onSupportNavigateUp();
+                return true;
+        }
+        return super.onOptionsItemSelected(item);
+    }
+
     public ArticleDetailActivity getActivityCast() {
         return (ArticleDetailActivity) getActivity();
     }
@@ -110,6 +128,7 @@ public class ArticleDetailFragment extends Fragment implements
         ((AppCompatActivity) getActivity()).setSupportActionBar(mToolbar);
         ((AppCompatActivity) getActivity()).getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         ((AppCompatActivity) getActivity()).setTitle("");
+        ((AppCompatActivity) getActivity()).getSupportActionBar().setHomeButtonEnabled(true);
 
         /*mDrawInsetsFrameLayout = (DrawInsetsFrameLayout)
                 mRootView.findViewById(R.id.draw_insets_frame_layout);

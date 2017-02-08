@@ -623,14 +623,7 @@
                     "endOffset": 3682
                 },
                 "from": {
-                    "file": "/home/saurabh/xyzreader/XYZReader/src/main/res/values/colors.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 4,
-                        "startOffset": 903,
-                        "endColumn": 40,
-                        "endOffset": 939
-                    }
+                    "file": "/home/saurabh/xyzreader/XYZReader/src/main/res/values/colors.xml"
                 }
             },
             {
@@ -1050,14 +1043,7 @@
                     "endOffset": 5956
                 },
                 "from": {
-                    "file": "/home/saurabh/xyzreader/XYZReader/src/main/res/values/colors.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 4,
-                        "startOffset": 856,
-                        "endColumn": 46,
-                        "endOffset": 898
-                    }
+                    "file": "/home/saurabh/xyzreader/XYZReader/src/main/res/values/colors.xml"
                 }
             },
             {
@@ -1069,14 +1055,7 @@
                     "endOffset": 6004
                 },
                 "from": {
-                    "file": "/home/saurabh/xyzreader/XYZReader/src/main/res/values/colors.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 755,
-                        "endColumn": 47,
-                        "endOffset": 798
-                    }
+                    "file": "/home/saurabh/xyzreader/XYZReader/src/main/res/values/colors.xml"
                 }
             },
             {
@@ -1088,14 +1067,7 @@
                     "endOffset": 6057
                 },
                 "from": {
-                    "file": "/home/saurabh/xyzreader/XYZReader/src/main/res/values/colors.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 4,
-                        "startOffset": 803,
-                        "endColumn": 52,
-                        "endOffset": 851
-                    }
+                    "file": "/home/saurabh/xyzreader/XYZReader/src/main/res/values/colors.xml"
                 }
             },
             {
@@ -3291,7 +3263,14 @@
                     "endOffset": 49413
                 },
                 "from": {
-                    "file": "/home/saurabh/xyzreader/XYZReader/src/main/res/values/macro_layout.xml"
+                    "file": "/home/saurabh/xyzreader/XYZReader/src/main/res/values/macro_layout.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 136,
+                        "endColumn": 49,
+                        "endOffset": 181
+                    }
                 }
             },
             {
@@ -7193,15 +7172,7 @@
                     "endOffset": 140742
                 },
                 "from": {
-                    "file": "/home/saurabh/xyzreader/XYZReader/src/main/res/values/styles.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 706,
-                        "endLine": 24,
-                        "endColumn": 12,
-                        "endOffset": 989
-                    }
+                    "file": "/home/saurabh/xyzreader/XYZReader/src/main/res/values/styles.xml"
                 }
             },
             {
