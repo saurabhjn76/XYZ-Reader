@@ -45,11 +45,11 @@
     },
     {
         "merged": "/home/saurabh/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable/design_bottom_navigation_item_background.xml",
-        "source": "/home/saurabh/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/drawable/design_bottom_navigation_item_background.xml"
+        "source": "/home/saurabh/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/drawable/design_bottom_navigation_item_background.xml"
     },
     {
         "merged": "/home/saurabh/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable/design_ic_visibility.xml",
-        "source": "/home/saurabh/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/drawable/design_ic_visibility.xml"
+        "source": "/home/saurabh/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/drawable/design_ic_visibility.xml"
     },
     {
         "merged": "/home/saurabh/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
@@ -69,7 +69,7 @@
     },
     {
         "merged": "/home/saurabh/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
-        "source": "/home/saurabh/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/drawable/navigation_empty_icon.xml"
+        "source": "/home/saurabh/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/drawable/navigation_empty_icon.xml"
     },
     {
         "merged": "/home/saurabh/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
@@ -89,7 +89,7 @@
     },
     {
         "merged": "/home/saurabh/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
-        "source": "/home/saurabh/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/drawable/design_snackbar_background.xml"
+        "source": "/home/saurabh/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/drawable/design_snackbar_background.xml"
     },
     {
         "merged": "/home/saurabh/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
@@ -169,7 +169,7 @@
     },
     {
         "merged": "/home/saurabh/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
-        "source": "/home/saurabh/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/drawable/design_fab_background.xml"
+        "source": "/home/saurabh/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/drawable/design_fab_background.xml"
     },
     {
         "merged": "/home/saurabh/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable/design_password_eye.xml",

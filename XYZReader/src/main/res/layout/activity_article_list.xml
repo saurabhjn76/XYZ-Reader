@@ -25,9 +25,9 @@
     <android.support.design.widget.AppBarLayout
         android:id="@+id/toolbar_container"
         android:layout_width="match_parent"
-        android:layout_height="64dp"
+        android:layout_height="?attr/actionBarSize"
         android:background="?colorPrimary"
-        android:elevation="8dp">
+        android:elevation="4dp">
 
 
         <android.support.v7.widget.Toolbar
@@ -36,6 +36,7 @@
             android:layout_marginLeft="@dimen/list_toolbar_side_margin"
             android:layout_marginRight="@dimen/list_toolbar_side_margin"
             android:layout_width="match_parent"
+            app:layout_scrollFlags="scroll|enterAlways"
             android:gravity="center_horizontal"
             android:layout_height="wrap_content"
             android:layout_gravity="bottom">

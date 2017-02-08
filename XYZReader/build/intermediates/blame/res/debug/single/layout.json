@@ -32,12 +32,12 @@
         "source": "/home/saurabh/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_action_tombstone.xml"
     },
     {
-        "merged": "/home/saurabh/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
-        "source": "/home/saurabh/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_layout_snackbar_include.xml"
-    },
-    {
         "merged": "/home/saurabh/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
         "source": "/home/saurabh/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/saurabh/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/home/saurabh/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_layout_snackbar_include.xml"
     },
     {
         "merged": "/home/saurabh/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
@@ -64,12 +64,12 @@
         "source": "/home/saurabh/xyzreader/XYZReader/src/main/res/layout/fragment_article_detail.xml"
     },
     {
-        "merged": "/home/saurabh/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
-        "source": "/home/saurabh/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_big_media_narrow.xml"
+        "merged": "/home/saurabh/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/home/saurabh/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_navigation_item.xml"
     },
     {
-        "merged": "/home/saurabh/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
-        "source": "/home/saurabh/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_navigation_item.xml"
+        "merged": "/home/saurabh/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/home/saurabh/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_big_media_narrow.xml"
     },
     {
         "merged": "/home/saurabh/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
@@ -81,11 +81,11 @@
     },
     {
         "merged": "/home/saurabh/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
-        "source": "/home/saurabh/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_navigation_item_header.xml"
+        "source": "/home/saurabh/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_navigation_item_header.xml"
     },
     {
         "merged": "/home/saurabh/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
-        "source": "/home/saurabh/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_navigation_menu.xml"
+        "source": "/home/saurabh/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_navigation_menu.xml"
     },
     {
         "merged": "/home/saurabh/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
@@ -137,7 +137,7 @@
     },
     {
         "merged": "/home/saurabh/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
-        "source": "/home/saurabh/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_bottom_navigation_item.xml"
+        "source": "/home/saurabh/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_bottom_navigation_item.xml"
     },
     {
         "merged": "/home/saurabh/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
@@ -149,7 +149,7 @@
     },
     {
         "merged": "/home/saurabh/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
-        "source": "/home/saurabh/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_text_input_password_icon.xml"
+        "source": "/home/saurabh/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_text_input_password_icon.xml"
     },
     {
         "merged": "/home/saurabh/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
@@ -157,7 +157,7 @@
     },
     {
         "merged": "/home/saurabh/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
-        "source": "/home/saurabh/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_bottom_sheet_dialog.xml"
+        "source": "/home/saurabh/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_bottom_sheet_dialog.xml"
     },
     {
         "merged": "/home/saurabh/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
@@ -181,7 +181,7 @@
     },
     {
         "merged": "/home/saurabh/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
-        "source": "/home/saurabh/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_layout_snackbar.xml"
+        "source": "/home/saurabh/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_layout_snackbar.xml"
     },
     {
         "merged": "/home/saurabh/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
@@ -193,7 +193,7 @@
     },
     {
         "merged": "/home/saurabh/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
-        "source": "/home/saurabh/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_navigation_menu_item.xml"
+        "source": "/home/saurabh/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_navigation_menu_item.xml"
     },
     {
         "merged": "/home/saurabh/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
@@ -201,11 +201,11 @@
     },
     {
         "merged": "/home/saurabh/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
-        "source": "/home/saurabh/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_layout_tab_icon.xml"
+        "source": "/home/saurabh/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_layout_tab_icon.xml"
     },
     {
         "merged": "/home/saurabh/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
-        "source": "/home/saurabh/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_layout_tab_text.xml"
+        "source": "/home/saurabh/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_layout_tab_text.xml"
     },
     {
         "merged": "/home/saurabh/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
@@ -225,7 +225,7 @@
     },
     {
         "merged": "/home/saurabh/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
-        "source": "/home/saurabh/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_menu_item_action_area.xml"
+        "source": "/home/saurabh/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_menu_item_action_area.xml"
     },
     {
         "merged": "/home/saurabh/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
@@ -237,7 +237,7 @@
     },
     {
         "merged": "/home/saurabh/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
-        "source": "/home/saurabh/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_navigation_item_separator.xml"
+        "source": "/home/saurabh/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_navigation_item_separator.xml"
     },
     {
         "merged": "/home/saurabh/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
@@ -249,6 +249,6 @@
     },
     {
         "merged": "/home/saurabh/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
-        "source": "/home/saurabh/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.1.0/res/layout/design_navigation_item_subheader.xml"
+        "source": "/home/saurabh/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_navigation_item_subheader.xml"
     }
 ]
